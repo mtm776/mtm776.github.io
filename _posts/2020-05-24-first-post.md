@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "quiz(2)를 대신하는 수행 과제"
-featured-img : opensource
 ---
 1. 팀 진행사항   
   /프로젝트 선정 과정/   
